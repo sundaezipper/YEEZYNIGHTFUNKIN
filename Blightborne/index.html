@@ -101,7 +101,7 @@
         ];
         
         for (const filename of filesToMerge) {
-          const blobUrl = await mergeSplitFile(filename, 2);
+          const blobUrl = await mergeSplitFile(filename, );
           if (blobUrl) {
             window.mergedBlobUrls[filename] = blobUrl;
           }
