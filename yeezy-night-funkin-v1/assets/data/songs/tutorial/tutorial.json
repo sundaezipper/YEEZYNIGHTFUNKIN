@@ -1,6 +1,6 @@
 {
 	"player1": "bf",
-	"player2": "sansye",
+	"player2": "gf",
 	"events": [],
 	"notes": [
 		{
@@ -464,7 +464,7 @@
 	],
 	"gfVersion": "gf",
 	"offset": 0,
-	"song": "snowdin",
+	"song": "tutorial",
 	"stage": "snowdin",
 	"needsVoices": true,
 	"format": "psych_v1",
