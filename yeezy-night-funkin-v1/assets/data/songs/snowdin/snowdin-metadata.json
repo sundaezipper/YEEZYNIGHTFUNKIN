@@ -1,0 +1,25 @@
+{
+  "version": "2.2.4",
+  "songName": "snowdin",
+  "artist": "siah",
+  "charter": "siah",
+  "playData": {
+    "difficulties": ["easy", "normal", "hard"],
+    "characters": {
+      "player": "bf",
+      "girlfriend": "gf",
+      "opponent": "sansye"
+    },
+    "stage": "snowdin",
+    "noteStyle": "funkin",
+    "ratings": { "easy": 2, "normal": 3, "hard": 4 },
+    "album": "yeezynightfunkin",
+    "previewStart": 0,
+    "previewEnd": 15000
+  },
+  "generatedBy": "rhap5ody",
+  "timeFormat": "ms",
+  "timeChanges": [
+    { "t": 0, "b": 0, "bpm": 120, "n": 4, "d": 4, "bt": [4, 4, 4, 4] }
+  ]
+}
